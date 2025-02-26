@@ -1,8 +1,9 @@
-# Ignore everything
-*
+*.bson
+*.sql
+*.zip
 
-# Allow .md files
-!*.md
-
-# Allow .gitignore itself
-!.gitignore
+# *.csv
+# *.json
+# *.xlsx
+# *.ods
+# *.odt

@@ -1,6 +1,9 @@
 *.bson
 *.sql
-*.csv
-*.odt
-*.json
 *.zip
+
+# *.csv
+# *.json
+# *.xlsx
+# *.ods
+# *.odt

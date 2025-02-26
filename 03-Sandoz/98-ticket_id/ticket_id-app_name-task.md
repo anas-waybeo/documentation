@@ -1,5 +1,6 @@
 ## 📌 Task Overview
 - **Task Title:**  
+- **Task Type:**  
 - **Assigned To:** 
 
 ---
@@ -70,4 +71,4 @@ _Add any extra notes or feedback about the task._
 
 ---
 
-✍️ **Last Updated:** `YYYY-MM-DD`
+✍️ **Last Updated:** `DDth MM YYYY`

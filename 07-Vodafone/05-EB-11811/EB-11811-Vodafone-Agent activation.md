@@ -36,7 +36,7 @@ _A brief description of what this task is about and its objectives._
 
 ## 📂 Files & Resources
 - 📄 Related Documents: [Link/File Path]  
-- 🔗 Reference Links: [Ticket](https://waybeo.atlassian.net/browse/EB-11386), [Link 2](#)  
+- 🔗 Reference Links: [Ticket](https://waybeo.atlassian.net/browse/EB-11811), [Link 2](#)  
 
 ---
 

@@ -10,9 +10,20 @@ _After the store update, the manager's name is not appearing on the report page 
 ---
 
 ## 🛠 Steps to Complete
-1. [ ] Run the project on docker
-2. [ ] _StoreManager_ value is null on mongodata
-3. [ ] Check the _StoreManager_ value is updated on the store table after update the store page
+1. [x] Run the project on docker
+2. [x] Make sure _StoreManager_ value is null on mongodata
+3. [x] Make sure _StoreManager_ value is updated on the below tables after update the store page
+	- [x] **stores** table
+	- [x] **store_managers** table
+4. [ ] Find the reason of why _StoreManager_ value is **null**
+	- [x] Process the cdr and how data is formatting
+	- [ ] Call-log data building time _StoreManager_ name is taking from **stores** table
+		- [x] Make sure _store_manager_name_ is update on the time of update **stores** details
+		- [ ] Some times the _store_manager_name_ is empty in the **stores** table. check that
+		- [ ] rewrite the logic, take _store_manager_name_ only from **store_managers** table
+5. [ ] Change the data fetching logic through out the app
+	- [ ] Delete _store_manager_name_ column from **stores** table
+	- [ ] Fix the above change to the _post_call_operation_
 
 ---
 

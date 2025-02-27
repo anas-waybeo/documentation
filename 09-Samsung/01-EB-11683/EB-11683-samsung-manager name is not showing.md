@@ -25,6 +25,8 @@ _After the store update, the manager's name is not appearing on the report page 
 	- [ ] Delete _store_manager_name_ column from **stores** table
 	- [x] Make sure the _store_manager_name_ should fetch from **store_managers** table on Store page
 	- [x] During the _CDR processing_ take _store_manager_name_ from **store_managers** table
+6. [x] Add POST_CALL_COMMAND_ARGUMENT_NAME=test on .env file
+7. [x] Do the validation on postcall operation
 
 ---
 
@@ -38,7 +40,10 @@ _After the store update, the manager's name is not appearing on the report page 
 _Details on how to deploy this task to production._
 
 ### 🔹 Server Deployment
-- [ ] Take pull on UAT
+- [x] Take pull on UAT
+- [x] Add POST_CALL_COMMAND_ARGUMENT_NAME=test on .env file
+- [x] run `php artisan config:clear`
+- [x] run postcall operation `php artisan post-call-operations:samsung test`
 
 ### 🔹 Database Changes
 _Script details, migration steps, or schema updates required._

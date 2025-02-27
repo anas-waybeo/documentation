@@ -1,7 +1,7 @@
 ## 📌 Task Overview
-- **Task Title:** onboarding-Store page setup
-- **Task Type:** Feature
-- **Assigned To:** Anas Hussain
+- **Task Title:**  
+- **Task Type:**  
+- **Assigned To:** 
 
 ---
 
@@ -71,4 +71,4 @@ _Add any extra notes or feedback about the task._
 
 ---
 
-✍️ **Last Updated:** `27th Feb 2025`
+✍️ **Last Updated:** `DDth MM YYYY`

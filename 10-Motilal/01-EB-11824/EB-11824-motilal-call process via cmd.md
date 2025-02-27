@@ -1,26 +1,29 @@
 ## 📌 Task Overview
-- **Task Title:** onboarding-Store page setup
+- **Task Title:** Post Call Procees via Command
 - **Task Type:** Feature
 - **Assigned To:** Anas Hussain
 
 ---
 
 ## 📋 Task Description
-_A brief description of what this task is about and its objectives._
+_Post Call Procees via Command._
 
 ---
 
 ## 🛠 Steps to Complete
-1. [x] Step 1  
-2. [ ] Step 2  
-3. [ ] Step 3  
-4. [ ] (Add more as needed)  
+1. [x] Make the project runnable on local
+	- [x] Import mysql
+	- [x] Import mongodb
+2. [x] Run the project on local
+3. [ ] Create a plan for change the post-call process via command
+4. [ ] Cross check the existing api is ready for getting the cdr data
+5. [ ] 
 
 ---
 
 ## 📂 Files & Resources
 - 📄 Related Documents: [Link/File Path]  
-- 🔗 Reference Links: [Link 1](#), [Link 2](#)  
+- 🔗 Reference Links: [Ticket](https://waybeo.atlassian.net/browse/EB-11824), [Link 2](#)  
 
 ---
 
@@ -71,4 +74,4 @@ _Add any extra notes or feedback about the task._
 
 ---
 
-✍️ **Last Updated:** `27th Feb 2025`
+✍️ **Last Updated:** `DDth MM YYYY`

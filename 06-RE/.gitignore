@@ -1,0 +1,8 @@
+# Ignore all .zip files
+*.zip
+
+# Ignore all .bson files
+*.bson
+
+# Ignore all .sql files
+*.sql

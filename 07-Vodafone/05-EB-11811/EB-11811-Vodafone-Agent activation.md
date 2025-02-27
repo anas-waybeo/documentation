@@ -29,8 +29,8 @@ _A brief description of what this task is about and its objectives._
 	php artisan mobile-agent:disable --agent=9819818405
 2. [ ] Enable
 	- [x] Build a csv file
-	- [ ] Upload the csv file via postman
-	- [ ] Please set the mobile_app column value to 1 in the numbers table. Please refer to the numbers above. If it is already updated, please ignore.
+	- [x] Upload the csv file via postman
+	- [x] Please set the mobile_app column value to 1 in the numbers table. Please refer to the numbers above. If it is already updated, please ignore.
 
 ---
 
@@ -58,8 +58,8 @@ _Instructions for testing the task before release._
 - _Nothing_ 
 
 ### 🧑‍🔬 Tester Side
-- [ ] Take dump and send it to aslam
-- [ ] Make sure above mentioned numbers are exist on the dump file
+- [x] Take dump and send it to aslam `php artisan mobile-subdomain:users`
+- [ ] Ensure activation numbers in the attached sheet exist in the dump file, and deactivation numbers do not.
 
 ---
 
@@ -84,4 +84,4 @@ _Add any extra notes or feedback about the task._
 
 ---
 
-✍️ **Last Updated:** `YYYY-MM-DD`
+✍️ **Last Updated:** `26th Feb 2025`

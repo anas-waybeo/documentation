@@ -1,5 +1,6 @@
 ## 📌 Task Overview
-- **Task Title:**  Landing number update
+- **Task Title:** Landing number update
+- **Task Type:** feature
 - **Assigned To:** Anas Hussain
 
 ---
@@ -30,8 +31,20 @@ _Details on how to deploy this task to production._
 
 ### 🔹 Server Deployment
 1. [x] Push the changes to the _hotfix-v1.0.0_ branch
-2. [ ] merge it with _development_
-3. [ ] merge it with _main_
+2. [x] merge it with _development_ and _master_
+	[x] git checkout hotfix-v1.0.0
+	[x] git pull origin hotfix-v1.0.0
+	[x] git checkout master
+	[x] git merge --no-ff hotfix-v1.0.0 -m "Merge hotfix-v1.0.0 into master" 
+	[x] git push origin master
+	[x] git tag -a v1.1.5 -m "11-digit landing no update"
+	[x] git push origin v1.1.5
+	[x] git checkout development
+	[x] git merge --no-ff hotfix-v1.0.0 -m "Merge hotfix-v1.0.0 into development"
+	[x] git push origin development
+
+3. [x] Set CALLFLOW_URL=http://callflow-uat.waybeo.com in .env file
+4. [x] run `php artisan config:clear`
 
 ### 🔹 Database Changes
 _Nothing._
@@ -74,4 +87,4 @@ _Add any extra notes or feedback about the task._
 
 ---
 
-✍️ **Last Updated:** `2025-02-25`
+✍️ **Last Updated:** `2025-02-26`

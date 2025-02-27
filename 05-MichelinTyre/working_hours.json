@@ -1,0 +1,58 @@
+value - 1
+
+{
+    "sun": [
+        {
+            "working_from": "0900",
+            "working_to": "1100"
+        }
+    ],
+    "mon": [
+        {
+            "working_from": "0900",
+            "working_to": "2000"
+        }
+    ],
+    "tue": [
+        {
+            "working_from": "0900",
+            "working_to": "2000"
+        }
+    ],
+    "wed": [
+        {
+            "working_from": "0900",
+            "working_to": "2000"
+        }
+    ],
+    "thu": [
+        {
+            "working_from": "0900",
+            "working_to": "2000"
+        }
+    ],
+    "fri": [
+        {
+            "working_from": "0900",
+            "working_to": "2000"
+        }
+    ],
+    "sat": [
+        {
+            "working_from": "0900",
+            "working_to": "2000"
+        }
+    ]
+}
+
+value - 2
+{
+    "all": [
+        {
+            "working_from": "0000",
+            "working_to": "2359"
+        }
+    ]
+}
+
+above are the expected values. i want to display it to the blade file in attractive way use php 

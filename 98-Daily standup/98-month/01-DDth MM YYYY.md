@@ -1,34 +1,26 @@
 ## 📌 Task Overview
-- **Task Title:** Post Call Procees via Command
-- **Task Type:** Feature
-- **Assigned To:** Anas Hussain
+- **Task Title:**  
+- **Task Type:**  
+- **Assigned To:** 
 
 ---
 
 ## 📋 Task Description
-_Post Call Procees via Command._
+_A brief description of what this task is about and its objectives._
 
 ---
 
 ## 🛠 Steps to Complete
-- [x] Make the project runnable on local
-	- [x] Import mysql
-	- [x] Import mongodb
-- [x] Run the project on local
-- [x] Create a plan for change the post-call process via command
-- [x] Cross check the existing api is ready for getting the cdr data
-- [ ] Cross check the source code version and make a feature branch.
-- [ ] Create a function to store CDR data during the Airtel callback.
-- [ ] Save the CDR data into a temporary file.
-- [ ] Activate the agent mobile app.
-- [ ] Create a console command to process the CDR file.
-- [ ] Process the CDR file and push the data to Firebase.
+1. [x] Step 1  
+2. [ ] Step 2  
+3. [ ] Step 3  
+4. [ ] (Add more as needed)  
 
 ---
 
 ## 📂 Files & Resources
 - 📄 Related Documents: [Link/File Path]  
-- 🔗 Reference Links: [Ticket](https://waybeo.atlassian.net/browse/EB-11824), [Link 2](#)  
+- 🔗 Reference Links: [Link 1](#), [Link 2](#)  
 
 ---
 

@@ -37,8 +37,6 @@ _Please activate Mobile App for Primary, Secondary and Tertiary agents of PHJ, H
 	2. [x] release that on UAT
 	3. [x] merge _development_ branch and _main_ branch with  _release-1.3.0_.
 
-
-
 ---
 
 ## 📂 Files & Resources

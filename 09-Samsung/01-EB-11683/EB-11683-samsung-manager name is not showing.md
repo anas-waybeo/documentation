@@ -21,7 +21,7 @@ _After the store update, the manager's name is not appearing on the report page 
 		- [x] Make sure _store_manager_name_ is update on the time of update **stores** details
 		- [x] Some times the _store_manager_name_ is empty in the **stores** table. check that
 		- [x] rewrite the logic, take _store_manager_name_ only from **store_managers** table
-5. [ ] Change the data fetching logic through out the app
+5. [x] Change the data fetching logic through out the app
 	- [ ] Delete _store_manager_name_ column from **stores** table
 	- [x] Make sure the _store_manager_name_ should fetch from **store_managers** table on Store page
 	- [x] During the _CDR processing_ take _store_manager_name_ from **store_managers** table

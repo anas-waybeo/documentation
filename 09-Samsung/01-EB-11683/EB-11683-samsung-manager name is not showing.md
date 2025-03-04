@@ -40,10 +40,17 @@ _After the store update, the manager's name is not appearing on the report page 
 _Details on how to deploy this task to production._
 
 ### 🔹 Server Deployment
-- [x] Take pull on UAT
-- [x] Add POST_CALL_COMMAND_ARGUMENT_NAME=test on .env file
+@anoop Pleaes release the changes on LIVE
+Server: Ford
+Branch: master
+old tag: v1.0.2
+new tag: v1.0.3
+
+TODO
+- [x] Take pull on LIVE
+- [x] Add POST_CALL_COMMAND_ARGUMENT_NAME=live on .env file
 - [x] run `php artisan config:clear`
-- [x] run postcall operation `php artisan post-call-operations:samsung test`
+- [x] run postcall operation `php artisan post-call-operations:samsung live`
 
 ### 🔹 Database Changes
 _Script details, migration steps, or schema updates required._

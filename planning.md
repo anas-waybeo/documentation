@@ -1,8 +1,10 @@
 ### Today
-- 
+
 
 ### Tomorrow work
-- Complete Motilal
+- [ ] Motilal: release on UAT
+- [ ] VN Inventory
+- [ ] Support task
 - Optional
     - Learn js advance topics
     - Learn node js
